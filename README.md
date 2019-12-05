@@ -1,2 +1,5 @@
 # resfolio
-Personal portfolio/résumé website with Gatsby
+Personal portfolio/résumé website
+• Gatsby
+• GSAP
+• React
